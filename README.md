@@ -5,8 +5,8 @@
 ### 🚀 AI & Data Science Engineer | Generative AI & Machine Learning Enthusiast
 
 <p align="center">
-  <a href="[https://linkedin.com/in/narendra-bharambe](https://www.linkedin.com/in/narendra-bharambe-8645ab391/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:narendrabharambe23gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/narendra-bharambe-8645ab391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:narendrabharambe23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/Narendrabharambe23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -102,8 +102,8 @@
 *Whether you want to discuss AI architecture, data science workflows, or potential collaborations, feel free to reach out!*
 
 <p align="center">
-  <a href="[https://linkedin.com/in/narendra-bharambe](https://www.linkedin.com/in/narendra-bharambe-8645ab391/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:narendrabharambe@example.com"><img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/narendra-bharambe-8645ab391/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:narendrabharambe23@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Narendrabharambe23"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
